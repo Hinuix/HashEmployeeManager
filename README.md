@@ -27,11 +27,3 @@ javac EmployeeManagementSystem.java
 # Run the application
 java EmployeeManagementSystem
 ```
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests for any improvements or features you'd like to see.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
